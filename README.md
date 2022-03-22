@@ -1,5 +1,10 @@
 #### Hello everyone, I'm Al!👋
 
+
+![image](https://user-images.githubusercontent.com/70176847/159519405-ee143bbd-cbc8-4e61-b771-bea6cbcf4b4c.png)  
+
+
+
 -🌱 Software QA Intern @ Porton Health  
 -🎓 Computer Systems Technology (CST) student at BCIT  
 -⚙️ Programming languages: Python, Java, JavaScript, C, SQL, Go, Rust  
