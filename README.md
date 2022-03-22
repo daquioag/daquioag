@@ -1,7 +1,7 @@
 #### Hello everyone, I'm Al!👋
 
 
-![image](https://user-images.githubusercontent.com/70176847/159519405-ee143bbd-cbc8-4e61-b771-bea6cbcf4b4c.png)  
+![image](https://user-images.githubusercontent.com/70176847/159519534-9307c662-c7ef-4921-9c9b-c245ad3fe688.png)  
 
 
 
