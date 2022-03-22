@@ -1,5 +1,4 @@
-### Hi there 👋
-Hello everyone, I'm Al!
+#### Hello everyone, I'm Al!👋
 
 <!--
 **daquioag/daquioag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
