@@ -3,7 +3,7 @@
  --------------- 
  <br />
  <br />
- <br />
+ <br />  
 -🌱 Software QA Intern @ Porton Health  
 -🎓 Computer Systems Technology (CST) student at BCIT  
 -⚙️ Programming languages: Python, Java, JavaScript, C, SQL, Go, Rust  
