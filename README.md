@@ -4,8 +4,8 @@
 -🎓 Computer Systems Technology (CST) student at BCIT  
 -⚙️ Programming languages: Python, Java, JavaScript, C, SQL, Go, Rust  
 -💻 Web development tools: ReactJS, Node, Express, Rest API, Firebase, HTML, CSS  
--⚡Click [here](https://aldaquioag.com/) to go to my portfolio.
--🎓Click [here](https://www.linkedin.com/in/al-daquioag/) to go to my Linkedin
+-⚡ Check out my personal portfolio here [here](https://aldaquioag.com/)  
+-🎓 Lets connect on Linkedin [here](https://www.linkedin.com/in/al-daquioag/)  
 
 <!--
 **daquioag/daquioag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
