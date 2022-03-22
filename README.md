@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 ⚙️ Programming languages: Python, Java, JavaScript, C, SQL, Go, Rust
 💻 Web development tools: ReactJS, Node, Express, Rest API, Firebase, HTML, CSS
 -->
-![image](https://user-images.githubusercontent.com/70176847/159584063-0bf326b3-aca8-4703-bafd-90e719fd99d5.png)
 
 <br />
 <br />
