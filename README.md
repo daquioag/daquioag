@@ -1,6 +1,9 @@
 #### Hello everyone, I'm Al!👋  
   
  --------------- 
+ <br />
+ <br />
+ <br />
 -🌱 Software QA Intern @ Porton Health  
 -🎓 Computer Systems Technology (CST) student at BCIT  
 -⚙️ Programming languages: Python, Java, JavaScript, C, SQL, Go, Rust  
@@ -28,7 +31,8 @@ Here are some ideas to get you started:
 -->
 
 
-
+<br />
+<br />
 <em>"Do what you like and are good at. There are jobs and money available for everything. Some dev jobs, I would hate. Others, I would love." 
 </em>.
 - Jason Wilder
